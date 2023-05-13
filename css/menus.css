@@ -1,0 +1,229 @@
+@media screen and (max-width: 600px) {
+    body {
+      font-size: 14px;
+    }
+  }
+
+body{
+    background-color: rgba(249, 231, 70, 0.74);
+}
+
+#menuLogo{
+    box-sizing: border-box;
+    position: absolute;
+    weight: absolute;
+    height: 120px;
+    left: -13px;
+    top: -8px;
+
+    background: rgba(249, 231, 70, 0.74);
+}
+#logoPrincipal{
+    position: absolute;
+    
+    height: 80px;
+    left: 58px;
+    top: 16px;
+}
+#btnCadastrar{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 11px 24px;
+    font-family: Arial;
+    color: #FFF;
+
+    position: absolute;
+    height: 40px;
+    width: 110px;
+    left: 1030px;
+    top: 44px;
+    cursor: pointer;
+    background: #F84949;
+    border: none;
+    border-radius: 7px;
+}
+#menu{
+    box-sizing: border-box;
+    position: absolute;
+    width: 1229px;
+    height: 36px;
+    left: 0px;
+    top: 112px;
+
+    color: white;
+    background: #F84949;
+
+    display: flex;
+    font-family: Arial, sans-serif;
+    align-items: center;
+    justify-content: center;
+}
+#menu a{
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+
+#dicaDia{
+    box-sizing: border-box;
+    background-color: #FFF;
+    height:200px;
+    width: 1196px;
+    margin-top: 156px;
+    margin-left: 0px;
+}
+
+h1{
+    font-family: 'Cutive';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 53px;
+    color: #F84949;
+}
+
+#dicaDia h1{
+    margin-left: 40px
+}
+
+#dicaDia article{
+   font-family: Arial, sans-serif;
+   margin-top: -20px;
+   margin-left: 30px;
+   width: 600px;
+}
+
+#dicaDia img{
+    width: 270px;
+    margin-left: 900px;
+    margin-top: -139px;
+}
+
+#rodape{
+    Cultive
+    margin-left: 0px;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+    position: absolute;
+    width: 1238px;
+    height: 98px;
+    left: -9px;
+    top: 2000px;
+    
+    background: #F84949;
+}
+#rodape p{
+    margin-left: 20px;
+    font-family: Arial, sans-serif;
+    color: white;
+}
+
+#promocao{
+    background-color: #FFF;
+    width: 580px;
+    height: 1000px;
+}
+
+#promocao h1{
+    margin-left: 29px;
+}
+
+#sofa{
+    position: absolute;
+    width: 309px;
+    height: 309px;
+    left: 130px;
+    top: 470px;
+}
+
+#imgCasa{
+    position: absolute;
+    height: 309px;
+    left: 130px;
+    top: 870px;
+}
+
+.anuncio{
+    position: absolute;
+    font-family: Cultive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 44px;
+    color: #F84949;
+}
+.preco{
+    position: absolute;
+    font-family: Cultive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 50px;
+    line-height: 44px;
+    color: black;
+}
+#camaVerde{
+    margin-top: 230px;
+    margin-left: 96px;
+}
+#precoVerde{
+    margin-top: 290px;
+    margin-left: 30px;
+}
+
+#casa{
+    margin-top: 730px;
+    margin-left: 96px;
+}
+#precoCasa{
+    margin-top: 790px;
+    margin-left: 30px;
+}
+
+#acessorios{
+    background-color: #FFF;
+    width: 580px;
+    height: 1000px;
+    margin-left: 600px;
+    margin-top: -1033px;
+    
+}
+
+#acessorios h1{
+    margin-left: 170px;
+}
+
+#acessorios img{
+    height: 26%;
+}
+
+#imgRoupaCinz{
+    margin-left: 0px;
+}
+
+#imgRoupaVaca{
+    margin-left: 280px;
+    margin-top: -320px;
+}
+
+#imgDourado{
+    margin-left: 30px;
+    margin-top: 230px;
+}
+
+#imgRoupaAzul{
+    margin-left: 320px;
+    margin-top: -230px;
+}
+
+#servicos{
+    background-color: #FFF;
+    height: 577px;
+    width: 1180px;
+}
+
+#servicos h1{
+    margin-left: 490px;
+}
+
