@@ -76,7 +76,7 @@ body{
 }
 
 h1{
-    font-family: 'Cutive';
+    font-family: Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
@@ -120,6 +120,13 @@ h1{
     color: white;
 }
 
+
+
+
+
+
+
+
 #promocao{
     background-color: #FFF;
     width: 580px;
@@ -147,21 +154,21 @@ h1{
 
 .anuncio{
     position: absolute;
-    font-family: Cultive;
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 44px;
+    color: black;
+}
+.preco{
+    position: absolute;
+    font-family: Arial, sans-serif;
     font-style: normal;
     font-weight: 400;
     font-size: 40px;
     line-height: 44px;
     color: #F84949;
-}
-.preco{
-    position: absolute;
-    font-family: Cultive;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
-    line-height: 44px;
-    color: black;
 }
 #camaVerde{
     margin-top: 230px;
@@ -180,6 +187,10 @@ h1{
     margin-top: 790px;
     margin-left: 30px;
 }
+
+
+
+
 
 #acessorios{
     background-color: #FFF;
@@ -200,6 +211,7 @@ h1{
 
 #imgRoupaCinz{
     margin-left: 0px;
+    margin-top: 10px;
 }
 
 #imgRoupaVaca{
@@ -216,6 +228,65 @@ h1{
     margin-left: 320px;
     margin-top: -230px;
 }
+.anuncioAce{
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 37px;
+
+    color: #000000;
+}
+
+.precoAce{
+    font-family: Arial, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 37px;
+
+    color: #F84949;
+
+}
+
+#anuncioCinz{
+    margin-top: -520px;
+    margin-left: 50px
+}
+
+#precoCinz{
+    margin-left: 80px
+}
+
+#anuncioVaca{
+    margin-top: -72px;
+    margin-left: 260px
+}
+
+#precoVaca{
+    margin-left: 330px
+}
+
+#anuncioDourado{
+    margin-top: 430px;
+    margin-left: 50px
+}
+
+#precoDourado{
+    margin-left: 90px
+}
+
+#anuncioAzul{
+    margin-top: -75px;;
+    margin-left: 300px;
+}
+
+#precoAzul{
+    margin-left: 380px;
+}
+
+
+
 
 #servicos{
     background-color: #FFF;
@@ -226,4 +297,5 @@ h1{
 #servicos h1{
     margin-left: 490px;
 }
+
 
